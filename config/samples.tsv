@@ -1,0 +1,5 @@
+sample_id	condition	replicate	bam
+ctrl_1	control	1	/scratch/xc17/rh1772/ONT/analysis/2025-09-26_RH017_HeLa_FA_ctl_NP_rep2/2025-09-26_RH017_HeLa_FA_ctl_NP_rep2_merged_primary_genome.bam
+ctrl_2	control	2	/scratch/xc17/rh1772/ONT/analysis/2025-09-22_RH015_HeLa_FA_ctl_NP_rep3/2025-09-22_RH015_HeLa_FA_ctl_NP_rep3_merged_primary_genome.bam
+fa_1	formaldehyde	1	/scratch/xc17/rh1772/ONT/analysis/2025-09-26_RH018_HeLa_FA_FA_NP_rep2/2025-09-26_RH018_HeLa_FA_FA_NP_rep2_merged_primary_genome.bam
+fa_2	formaldehyde	2	/scratch/xc17/rh1772/ONT/analysis/2025-09-23_RH016_HeLa_FA_FA_NP_rep3/2025-09-23_RH016_HeLa_FA_FA_NP_rep3_merged_primary_genome.bam
